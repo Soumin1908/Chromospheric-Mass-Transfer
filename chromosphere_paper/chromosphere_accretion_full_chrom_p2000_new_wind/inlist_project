@@ -1,0 +1,31 @@
+&binary_job
+
+   inlist_names(1) = 'inlist1' 
+   inlist_names(2) = 'inlist2'
+
+   evolve_both_stars = .false.
+
+/ ! end of binary_job namelist
+
+&binary_controls
+
+   use_other_rlo_mdot = .true.
+   mdot_scheme = 'Chromosphere'
+         
+   m1 = 1.5d0  ! donor mass in Msun
+   m2 = 0.6d0 ! companion mass in Msun
+   initial_period_in_days = 2250
+   mass_transfer_beta = 0.75d0
+   mass_transfer_delta = 0.0d0
+   mass_transfer_gamma = 0.0d0
+
+   fr = 0.05
+   fr_limit = 1d-2
+
+   !transfer efficiency controls
+   limit_retention_by_mdot_edd = .false.
+
+   !max_tries_to_achieve = 20
+         
+/ ! end of binary_controls namelist
+
