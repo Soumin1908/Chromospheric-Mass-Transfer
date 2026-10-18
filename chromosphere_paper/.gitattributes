@@ -1,0 +1,15 @@
+/chromosphere_accretion_full_chrom_p200/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_full_chrom_p2000/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_full_chrom_p2000_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_full_chrom_p200_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_full_chrom_p750/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_full_chrom_p750_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p200/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p2000/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p2000_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p200_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p750/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_red_chrom_p750_new_wind/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_ritter_p200/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_ritter_p2000/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
+/chromosphere_accretion_ritter_p750/LOGS1/history.data filter=lfs diff=lfs merge=lfs -text
